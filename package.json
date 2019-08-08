@@ -17,6 +17,8 @@
         "snekfetch": "^3.6.4",
         "tweetnacl": "^1.0.0",
         "ws": "^6.0.0"
+        "start": "node bot.js"
+
       }
     },
     "long": {
