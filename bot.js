@@ -229,4 +229,4 @@ message.channel.send("``لا تستطيع سحب "+ message.mentions.members.fir
 message.react("❌")
  }}});
 
-client.login("NjA3OTc4NTQ1NDUyNTQ4MTI3.XUheMA.JIRDR8F6wBL9Nr99-za1HTZlo8c")
+client.login(process.env.BOT_TOKEN);
