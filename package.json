@@ -21,6 +21,10 @@
 
       }
     },
+    "scripts": {
+    "start": "node index.js"
+}
+
     "long": {
       "version": "4.0.0",
       "resolved": "https://registry.npmjs.org/long/-/long-4.0.0.tgz",
